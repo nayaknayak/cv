@@ -1,0 +1,21 @@
+
+  hr{
+    border-color: MediumSeaGreen;
+     border-width: 5px;
+
+    border-style: none ;
+    border-top-style:  dotted;
+    height:2px;
+    width: 10%;
+  }
+  body{
+    align-self: center;
+    color: blue;
+    
+  }
+h1{
+  color: #F80D06 ;
+}
+h3{
+  color: #F84106;
+}
