@@ -11,7 +11,7 @@
   body{
     align-self: center;
     color: blue;
-    
+
   }
 h1{
   color: #F80D06 ;
@@ -20,5 +20,14 @@ h3{
   color: #F84106;
 }
 .first{
-  border-radius:100px;
+  border-radius: 100px;
+}
+#heading{
+  background-color: #A3E4D7;
+}
+a:hover{
+  color: black;
+}
+.satya:hover{
+  color: black;
 }
